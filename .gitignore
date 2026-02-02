@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+.venv/
+venv/
+
+# OS junk
+Thumbs.db
+.DS_Store
+
+# RAG persistent data (DO NOT COMMIT)
+storage/
